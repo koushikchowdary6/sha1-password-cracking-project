@@ -9,8 +9,8 @@ PASSWORD_FILE = 'passwords.txt'
 DICTIONARY_FILE = 'dictionary.txt'
 
 # Configuration - adjust these values based on the expected password complexity
-MAX_DIGIT_LEN = 8
-MAX_APPEND_DIGITS = 10000  # Increased from 1000
+MAX_DIGIT_LEN = 6
+MAX_APPEND_DIGITS = 3000
 COMMON_YEARS = list(range(1980, 2025))  # Common years people use in passwords
 COMMON_SEPARATORS = ['', '.', '_', '-']  # Common separators between words/numbers
 MAX_WORD_COMBINATIONS = 2  # Try combinations of dictionary words

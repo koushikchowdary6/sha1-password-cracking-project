@@ -1,0 +1,2 @@
+# No third-party dependencies -- standard library only (hashlib, multiprocessing).
+# Python 3.8+ required.
